@@ -1,12 +1,8 @@
-## Hi there 👋
+# BrainLab 👋
 
-<!--
+Brain Lab has developed an intelligent clinical decision support system and neurological disease simulation model that can help better diagnosis and treatment in the medical field. In addition, Brain Lab has focused on the development of advanced brain-computer interface and AI applications in various industrial fields.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Research Field
+- Brain-computer interface
+- Advanced physiological monitoring and neuroimaging
+- Brain stimulation
